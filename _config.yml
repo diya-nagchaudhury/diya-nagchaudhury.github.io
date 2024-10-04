@@ -1,0 +1,10 @@
+# Site settings
+title: My Portfolio
+description: A showcase of my work and skills
+author: Diya
+
+# Build settings
+markdown: kramdown
+theme: minima  # This is an example theme, you can change it
+
+# You can add more configuration options here as needed
